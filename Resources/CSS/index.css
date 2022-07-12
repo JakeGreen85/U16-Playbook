@@ -101,6 +101,18 @@
     display: inline-block;
     text-align: center;
     padding: 25px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 75px;
+    padding-right: 75px;
+  }
+
+  .front-page-sections img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+  }
+
+  .front-page-sections h4 {
+    text-align: center;
   }
