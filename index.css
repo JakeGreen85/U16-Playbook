@@ -91,10 +91,11 @@
   .footnote {
     text-align: center;
     font-size: small;
+    margin: 50px;
   }
 
   .footnote a {
-    margin: 10px;
+    margin: 20px;
   }
 
   .play-assignments {
