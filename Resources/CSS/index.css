@@ -97,6 +97,10 @@
     margin: 10px;
   }
 
+  .play-assignments {
+    text-align: center;
+  }
+
   .play {
     display: inline-block;
     text-align: center;
