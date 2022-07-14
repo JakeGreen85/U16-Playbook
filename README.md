@@ -2,4 +2,4 @@
 Website containing the U16 playbook
 
 Needs & Fixes:
-- (Possible quiz for players to complete?)
+- Javascript quiz
